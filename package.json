@@ -1,11 +1,16 @@
 {
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "name": "irierestaurant",
   "version": "1.0.0",
-  "description": "A Jamaican food restaurant site built with Node.js and Express.js. ",
+  "description": "A Jamaican food restaurant site built with Node.js, Express.js, and Bulma CSS.",
   "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/systemsvanguard/irierestaurant.git"
+  },
   "keywords": [
     "Node.js",
     "Express.js",
@@ -13,8 +18,20 @@
     "Restaurant",
     "Bulma",
     "CSS",
+    "FontAwesome",
     "JavaScript"
   ],
   "author": "Ryan Hunter | GitHub & BitBucket handle: SystemsVanguard | Email: ryan@RyanHunter.org | Site: www.RyanHunter.org | Location: Brampton ON (Greater Toronto Area)",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/systemsvanguard/irierestaurant/issues"
+  },
+  "homepage": "https://github.com/systemsvanguard/irierestaurant#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "bulma": "^0.9.3",
+    "express": "^4.17.3"
+  }
 }
