@@ -1,5 +1,3 @@
-"# irierestaurant"  
-
 # Irie Jamaican Restaurant
 A Jamaican food restaurant site built with Node.js, Express.js, and Bulma CSS.
 
