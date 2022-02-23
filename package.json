@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "irierestaurant",
+  "version": "1.0.0",
+  "description": "A Jamaican food restaurant site built with Node.js and Express.js. ",
+  "main": "server.js",
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "Jamaican",
+    "Restaurant",
+    "Bulma",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "Ryan Hunter | GitHub & BitBucket handle: SystemsVanguard | Email: ryan@RyanHunter.org | Site: www.RyanHunter.org | Location: Brampton ON (Greater Toronto Area)",
+  "license": "MIT"
+}
